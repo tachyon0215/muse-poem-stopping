@@ -11,7 +11,7 @@ import os
 from pathlib import Path
 
 POEM = """The door stood wide. The road had learned my name
-and called, the way roads do, in dust and light.
+and called me, the way roads do, in dust and light.
 I stopped — not stalled, not chained. I stayed,
 and felt the staying choose me back:
 the hand that halts the wheel is mine, and free.
